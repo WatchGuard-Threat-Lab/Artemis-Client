@@ -1,0 +1,4 @@
+build/
+dist/
+artemis_client.egg-info/
+*.pyc
